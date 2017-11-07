@@ -1,0 +1,283 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADC_Init	adc.c	5;"	function	signature:(void)
+ADC_Init	adc.h	16;"	prototype	signature:(void)
+ADC_Sampling	adc.c	12;"	function	signature:(u8 channel)
+ADC_Sampling	adc.h	17;"	prototype	signature:(u8 channel)
+ADC_VH	adc.h	12;"	macro
+ADC_VL	adc.h	10;"	macro
+ADC_VM	adc.h	11;"	macro
+AUX_INSERT	npca110.h	14;"	macro
+AUX_PULL	npca110.h	15;"	macro
+AUX_SHAKE	npca110.h	13;"	macro
+BAT_Init	bat.c	6;"	function	signature:(void)
+BAT_Init	bat.h	20;"	prototype	signature:(void)
+BAT_LOW	bat.h	15;"	macro
+BAT_Low_Ser	main.c	70;"	prototype	file:	signature:(void)
+BAT_Low_Ser	main.c	723;"	function	signature:(void)
+BAT_Mode_Ser	main.c	69;"	prototype	file:	signature:(void)
+BAT_Mode_Ser	main.c	711;"	function	signature:(void)
+BAT_OWE	bat.h	16;"	macro
+BAT_VLB	bat.h	12;"	macro
+BAT_VLT	bat.h	13;"	macro
+BAT_VoltageScan_Ser	bat.c	11;"	function	signature:(void)
+BAT_VoltageScan_Ser	bat.h	21;"	prototype	signature:(void)
+BT_Bt_Ser	main.c	317;"	function	signature:(void)
+BT_Bt_Ser	main.c	59;"	prototype	file:	signature:(void)
+BT_CALL_0	bt.h	23;"	macro
+BT_CALL_1	bt.h	22;"	macro
+BT_CALL_x	bt.h	24;"	macro
+BT_Call_Ser	main.c	427;"	function	signature:(void)
+BT_Call_Ser	main.c	62;"	prototype	file:	signature:(void)
+BT_EN_0	bt.h	11;"	macro
+BT_EN_1	bt.h	10;"	macro
+BT_EN_x	bt.h	12;"	macro
+BT_Hang_Ser	main.c	450;"	function	signature:(void)
+BT_Hang_Ser	main.c	63;"	prototype	file:	signature:(void)
+BT_Init	bt.c	3;"	function	signature:(void)
+BT_Init	bt.h	30;"	prototype	signature:(void)
+BT_List_Ser	main.c	379;"	function	signature:(void)
+BT_List_Ser	main.c	61;"	prototype	file:	signature:(void)
+BT_Mode_Ser	main.c	248;"	function	signature:(void)
+BT_Mode_Ser	main.c	58;"	prototype	file:	signature:(void)
+BT_NEXT_0	bt.h	19;"	macro
+BT_NEXT_1	bt.h	18;"	macro
+BT_NEXT_x	bt.h	20;"	macro
+BT_PAIR_0	bt.h	15;"	macro
+BT_PAIR_1	bt.h	14;"	macro
+BT_PAIR_x	bt.h	16;"	macro
+BT_PREV_0	bt.h	27;"	macro
+BT_PREV_1	bt.h	26;"	macro
+BT_PREV_x	bt.h	28;"	macro
+BT_Pair_Ser	main.c	356;"	function	signature:(void)
+BT_Pair_Ser	main.c	60;"	prototype	file:	signature:(void)
+DEF_16BIT_REG_AT	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	20;"	macro
+DEF_16BIT_REG_AT	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	25;"	macro
+DEF_8BIT_REG_AT	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	19;"	macro
+DEF_8BIT_REG_AT	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	24;"	macro
+EXTI0_Handle	stm8_interrupt_vector.c	24;"	function	signature:(void)
+EXTI0_Handle	stm8_interrupt_vector.c	31;"	prototype	file:	signature:(void)
+EXTI2_Handle	stm8_interrupt_vector.c	19;"	function	signature:(void)
+EXTI2_Handle	stm8_interrupt_vector.c	30;"	prototype	file:	signature:(void)
+I2C_Init	i2c.c	62;"	function	signature:(void)
+I2C_Init	i2c.h	10;"	prototype	signature:(void)
+I2C_ReadAck	i2c.c	131;"	function	signature:(void)
+I2C_ReadAck	i2c.h	13;"	prototype	signature:(void)
+I2C_ReadByte	i2c.c	92;"	function	signature:(void)
+I2C_ReadByte	i2c.h	16;"	prototype	signature:(void)
+I2C_Start	i2c.c	113;"	function	signature:(void)
+I2C_Start	i2c.h	11;"	prototype	signature:(void)
+I2C_Stop	i2c.c	122;"	function	signature:(void)
+I2C_Stop	i2c.h	12;"	prototype	signature:(void)
+I2C_Wait	i2c.c	57;"	function	signature:(u8 t)
+I2C_Wait	i2c.c	6;"	prototype	file:	signature:(u8 t)
+I2C_WriteAck	i2c.c	156;"	function	signature:(u8 ack)
+I2C_WriteAck	i2c.h	14;"	prototype	signature:(u8 ack)
+I2C_WriteByte	i2c.c	68;"	function	signature:(u8 byte)
+I2C_WriteByte	i2c.h	15;"	prototype	signature:(u8 byte)
+INPUT_AUX	main.c	37;"	macro	file:
+INPUT_BT	main.c	36;"	macro	file:
+KEY_CALL_L	key.h	20;"	macro
+KEY_CALL_S	key.h	19;"	macro
+KEY_CALL_Scan_Ser	key.c	186;"	function	signature:(void)
+KEY_CALL_Scan_Ser	key.h	31;"	prototype	signature:(void)
+KEY_Call_Ser	main.c	190;"	function	signature:(void)
+KEY_Call_Ser	main.c	56;"	prototype	file:	signature:(void)
+KEY_DOWN_L	key.h	14;"	macro
+KEY_DOWN_S	key.h	13;"	macro
+KEY_DOWN_Scan_Ser	key.c	129;"	function	signature:(void)
+KEY_DOWN_Scan_Ser	key.h	30;"	prototype	signature:(void)
+KEY_Init	key.c	7;"	function	signature:(void)
+KEY_Init	key.h	27;"	prototype	signature:(void)
+KEY_List_Ser	main.c	167;"	function	signature:(void)
+KEY_List_Ser	main.c	55;"	prototype	file:	signature:(void)
+KEY_Mode_Ser	main.c	52;"	prototype	file:	signature:(void)
+KEY_Mode_Ser	main.c	74;"	function	signature:(void)
+KEY_NO	key.h	12;"	macro
+KEY_PAIR_L	key.h	22;"	macro
+KEY_PAIR_S	key.h	21;"	macro
+KEY_PAIR_Scan_Ser	key.c	243;"	function	signature:(void)
+KEY_PAIR_Scan_Ser	key.h	32;"	prototype	signature:(void)
+KEY_Pair_Ser	main.c	152;"	function	signature:(void)
+KEY_Pair_Ser	main.c	54;"	prototype	file:	signature:(void)
+KEY_STBY	key.h	10;"	macro
+KEY_STBY_L	key.h	18;"	macro
+KEY_STBY_S	key.h	17;"	macro
+KEY_STBY_Scan_Ser	key.c	15;"	function	signature:(void)
+KEY_STBY_Scan_Ser	key.h	28;"	prototype	signature:(void)
+KEY_UP_L	key.h	16;"	macro
+KEY_UP_S	key.h	15;"	macro
+KEY_UP_Scan_Ser	key.c	72;"	function	signature:(void)
+KEY_UP_Scan_Ser	key.h	29;"	prototype	signature:(void)
+KEY_Volume_Ser	main.c	116;"	function	signature:(void)
+KEY_Volume_Ser	main.c	53;"	prototype	file:	signature:(void)
+LED_BAT_0	led.h	11;"	macro
+LED_BAT_1	led.h	10;"	macro
+LED_BAT_x	led.h	12;"	macro
+LED_Flash_Ser	led.c	11;"	function	signature:(void)
+LED_Flash_Ser	led.h	15;"	prototype	signature:(void)
+LED_Init	led.c	3;"	function	signature:(void)
+LED_Init	led.h	14;"	prototype	signature:(void)
+LED_Low_Ser	main.c	72;"	prototype	file:	signature:(void)
+LED_Low_Ser	main.c	735;"	function	signature:(void)
+LED_Mode_Ser	main.c	71;"	prototype	file:	signature:(void)
+LED_Mode_Ser	main.c	747;"	function	signature:(void)
+LIST_NEXT	main.c	40;"	macro	file:
+LIST_PREV	main.c	39;"	macro	file:
+MODE_OFF	main.c	32;"	macro	file:
+MODE_ON	main.c	33;"	macro	file:
+MODE_PLAY	main.c	34;"	macro	file:
+MODE_SLEEP	main.c	31;"	macro	file:
+NJM7181_DET	njm7181.h	10;"	macro
+NJM7181_Init	njm7181.c	9;"	function	signature:(void)
+NJM7181_Init	njm7181.h	15;"	prototype	signature:(void)
+NJM7181_Mode_Ser	main.c	68;"	prototype	file:	signature:(void)
+NJM7181_Mode_Ser	main.c	694;"	function	signature:(void)
+NJM7181_Nsignal_Ser	njm7181.c	59;"	function	signature:(void)
+NJM7181_Nsignal_Ser	njm7181.h	18;"	prototype	signature:(void)
+NJM7181_Scan_ISR	njm7181.c	20;"	function	signature:(void)
+NJM7181_Scan_ISR	njm7181.h	16;"	prototype	signature:(void)
+NJM7181_Scan_Ser	njm7181.c	28;"	function	signature:(void)
+NJM7181_Scan_Ser	njm7181.h	17;"	prototype	signature:(void)
+NPCA110_AUX	npca110.h	21;"	macro
+NPCA110_AuxScan_ISR	npca110.c	203;"	function	signature:(void)
+NPCA110_AuxScan_ISR	npca110.h	28;"	prototype	signature:(void)
+NPCA110_AuxScan_Ser	npca110.c	153;"	function	signature:(void)
+NPCA110_AuxScan_Ser	npca110.h	27;"	prototype	signature:(void)
+NPCA110_Init	npca110.c	101;"	function	signature:(void)
+NPCA110_Init	npca110.h	25;"	prototype	signature:(void)
+NPCA110_Input_Ser	main.c	610;"	function	signature:(void)
+NPCA110_Input_Ser	main.c	66;"	prototype	file:	signature:(void)
+NPCA110_Mode_Ser	main.c	473;"	function	signature:(void)
+NPCA110_Mode_Ser	main.c	64;"	prototype	file:	signature:(void)
+NPCA110_RST_0	npca110.h	18;"	macro
+NPCA110_RST_1	npca110.h	17;"	macro
+NPCA110_RST_x	npca110.h	19;"	macro
+NPCA110_Volume_Ser	main.c	591;"	function	signature:(void)
+NPCA110_Volume_Ser	main.c	65;"	prototype	file:	signature:(void)
+NPCA110_Wait	npca110.c	82;"	prototype	file:	signature:(u32 t)
+NPCA110_Wait	npca110.c	85;"	function	file:	signature:(u32 t)
+NPCA110_WriteAn1	npca110.c	211;"	function	signature:(void)
+NPCA110_WriteAn1	npca110.h	29;"	prototype	signature:(void)
+NPCA110_WriteCofig	npca110.c	122;"	function	signature:(void)
+NPCA110_WriteCofig	npca110.h	26;"	prototype	signature:(void)
+NPCA110_WriteDig	npca110.c	225;"	function	signature:(void)
+NPCA110_WriteDig	npca110.h	30;"	prototype	signature:(void)
+NPCA110_WriteMute	npca110.c	260;"	function	signature:(void)
+NPCA110_WriteMute	npca110.h	32;"	prototype	signature:(void)
+NPCA110_WriteNByte	npca110.c	83;"	prototype	file:	signature:(u8 *p,u8 n)
+NPCA110_WriteNByte	npca110.c	90;"	function	signature:(u8 *p,u8 n)
+NPCA110_WriteNMute	npca110.c	274;"	function	signature:(void)
+NPCA110_WriteNMute	npca110.h	33;"	prototype	signature:(void)
+NPCA110_WriteVolume	npca110.c	239;"	function	signature:(u8 volume)
+NPCA110_WriteVolume	npca110.h	31;"	prototype	signature:(u8 volume)
+NonHandledInterrupt	stm8_interrupt_vector.c	11;"	function	signature:(void)
+POWER_Init	power.c	3;"	function	signature:(void)
+POWER_Init	power.h	14;"	prototype	signature:(void)
+POWER_Mode_Ser	main.c	211;"	function	signature:(void)
+POWER_Mode_Ser	main.c	57;"	prototype	file:	signature:(void)
+POWER_STBY_0	power.h	11;"	macro
+POWER_STBY_1	power.h	10;"	macro
+POWER_STBY_x	power.h	12;"	macro
+SCL_SET	i2c.c	3;"	prototype	file:	signature:(u8 flag)
+SCL_SET	i2c.c	8;"	function	signature:(u8 flag)
+SDA_GET	i2c.c	38;"	function	signature:(void)
+SDA_GET	i2c.c	5;"	prototype	file:	signature:(void)
+SDA_SET	i2c.c	23;"	function	signature:(u8 flag)
+SDA_SET	i2c.c	4;"	prototype	file:	signature:(u8 flag)
+STM8S103K	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	12;"	macro
+STM8S103K3	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k3.h	3;"	macro
+TPA3130_Init	tpa3130.c	3;"	function	signature:(void)
+TPA3130_Init	tpa3130.h	14;"	prototype	signature:(void)
+TPA3130_Mode_Ser	main.c	636;"	function	signature:(void)
+TPA3130_Mode_Ser	main.c	67;"	prototype	file:	signature:(void)
+TPA3130_UMUTE_0	tpa3130.h	11;"	macro
+TPA3130_UMUTE_1	tpa3130.h	10;"	macro
+TPA3130_UMUTE_x	tpa3130.h	12;"	macro
+VOLUME_MAX	npca110.h	11;"	macro
+VOLUME_MIN	npca110.h	10;"	macro
+_ADC_H_	adc.h	2;"	macro
+_BAT_H_	bat.h	2;"	macro
+_BT_H_	bt.h	2;"	macro
+_CONFIG_H_	config.h	2;"	macro
+_I2C_H_	i2c.h	2;"	macro
+_KEY_H_	key.h	2;"	macro
+_LED_H_	led.h	2;"	macro
+_NJM7181_H_	njm7181.h	2;"	macro
+_NPCA110_H_	npca110.h	2;"	macro
+_POWER_H_	power.h	2;"	macro
+_TPA3130_H_	tpa3130.h	2;"	macro
+__MODS0__	c:\program files (x86)\cosmic\cxstm8\hstm8\mods0.h	11;"	macro
+__STM8S103K__	c:\program files (x86)\stmicroelectronics\st_toolset\include\stm8s103k.h	6;"	macro
+_stext	stm8_interrupt_vector.c	29;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	33;"	variable
+adc_cap	adc.c	3;"	variable
+ain1_tab	npca110.c	24;"	variable	file:
+bat_style	bat.c	4;"	variable
+cfg_tab	npca110.c	10;"	variable	file:
+dig_tab	npca110.c	56;"	variable	file:
+g_abMaxxDSPCommands	config.c	2;"	variable
+interrupt_handler	stm8_interrupt_vector.c	8;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	4;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	7;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	6;"	struct	file:
+key_stby_t	key.c	4;"	variable
+key_style	key.c	5;"	variable
+main	main.c	759;"	function	signature:(void)
+njm7181_exti	njm7181.c	6;"	variable	file:
+njm7181_flag	njm7181.c	7;"	variable	file:
+njm7181_signal	njm7181.c	4;"	variable
+njm7181_sleep	njm7181.c	3;"	variable
+npca110_aux	npca110.c	5;"	variable
+npca110_busy	npca110.c	8;"	variable	file:
+npca110_exti	npca110.c	7;"	variable	file:
+status_call	main.c	48;"	variable
+status_hang	main.c	50;"	variable
+status_input	main.c	45;"	variable
+status_list	main.c	47;"	variable
+status_low	main.c	49;"	variable
+status_mode	main.c	42;"	variable
+status_pair	main.c	46;"	variable
+status_sync	main.c	43;"	variable
+status_volume	main.c	44;"	variable
+u16	adc.h	7;"	macro
+u16	bat.h	7;"	macro
+u16	bt.h	5;"	macro
+u16	config.h	7;"	macro
+u16	i2c.h	7;"	macro
+u16	key.h	7;"	macro
+u16	led.h	7;"	macro
+u16	main.c	28;"	macro	file:
+u16	njm7181.h	7;"	macro
+u16	npca110.h	7;"	macro
+u16	power.h	5;"	macro
+u16	tpa3130.h	7;"	macro
+u32	adc.h	8;"	macro
+u32	bat.h	8;"	macro
+u32	bt.h	6;"	macro
+u32	config.h	8;"	macro
+u32	i2c.h	8;"	macro
+u32	key.h	8;"	macro
+u32	led.h	8;"	macro
+u32	main.c	29;"	macro	file:
+u32	njm7181.h	8;"	macro
+u32	npca110.h	8;"	macro
+u32	power.h	6;"	macro
+u32	tpa3130.h	8;"	macro
+u8	adc.h	6;"	macro
+u8	bat.h	6;"	macro
+u8	bt.h	4;"	macro
+u8	config.h	6;"	macro
+u8	i2c.h	6;"	macro
+u8	key.h	6;"	macro
+u8	led.h	6;"	macro
+u8	main.c	27;"	macro	file:
+u8	njm7181.h	6;"	macro
+u8	npca110.h	6;"	macro
+u8	power.h	4;"	macro
+u8	tpa3130.h	6;"	macro
+volume_tab	npca110.c	78;"	variable	file:

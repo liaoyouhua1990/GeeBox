@@ -1,0 +1,43 @@
+
+//DIG -3.07
+ I2C W 0x73: 0x00 0xA4 0x11  // Load Router Gain Start 
+ I2C W 0x73: 0x0B 0x0F 0x10  // M1 - SDI0 to Processing path 
+                      0x00 0x00 0x00   // M2 - SDI1 to Processing path 
+                      0x00 0x00 0x00   // M3 - SDI2 to Processing path 
+                      0x00 0x00 0x00   // M4 - ADC  to Processing path 
+                      0x00 0x00 0x00   // M5 - SDI0 to UnProcessing path 
+                      0x00 0x00 0x00   // M6 - SDI1 to UnProcessing path 
+                      0x00 0x00 0x00   // M7 - SDI2 to UnProcessing path 
+                      0x00 0x00 0x00   // M8 - ADC  to UnProcessing path 
+                      0x00 0x00 0x00   // M9 - SDO0 from Processed path 
+                      0x00 0x00 0x00   // M10- SDO1 from Processed path 
+                      0x7F 0xFF 0xFF   // M11- DAC1 from Processed path 
+                      0x00 0x00 0x00   // M12- SDO0 from UnProcessed path 
+                      0x00 0x00 0x00   // M13- SDO1 from UnProcessed path 
+                      0x00 0x00 0x00   // M14- DAC1 from UnProcessed path 
+                      0x00 0x00 0x00   // M15- DAC2/SDO2 from Subwoofer path 
+                      0x00 0x00 0x00   // M16- DAC2/SDO2 UnProcessed path 
+                      0x3A 0x81 0xDD   // M17- DAC2/SDO2 Processed path 
+ I2C W 0x73: 0x00 0xC8 0x00  // Load Router Gain End 
+
+//AIN1 -5.52
+ I2C W 0x73: 0x00 0xA4 0x11  // Load Router Gain Start 
+ I2C W 0x73: 0x00 0x00 0x00  // M1 - SDI0 to Processing path 
+                      0x00 0x00 0x00   // M2 - SDI1 to Processing path 
+                      0x00 0x00 0x00   // M3 - SDI2 to Processing path 
+                      0x08 0x88 0xFD   // M4 - ADC  to Processing path 
+                      0x00 0x00 0x00   // M5 - SDI0 to UnProcessing path 
+                      0x00 0x00 0x00   // M6 - SDI1 to UnProcessing path 
+                      0x00 0x00 0x00   // M7 - SDI2 to UnProcessing path 
+                      0x00 0x00 0x00   // M8 - ADC  to UnProcessing path 
+                      0x00 0x00 0x00   // M9 - SDO0 from Processed path 
+                      0x00 0x00 0x00   // M10- SDO1 from Processed path 
+                      0x7F 0xFF 0xFF   // M11- DAC1 from Processed path 
+                      0x00 0x00 0x00   // M12- SDO0 from UnProcessed path 
+                      0x00 0x00 0x00   // M13- SDO1 from UnProcessed path 
+                      0x00 0x00 0x00   // M14- DAC1 from UnProcessed path 
+                      0x00 0x00 0x00   // M15- DAC2/SDO2 from Subwoofer path 
+                      0x00 0x00 0x00   // M16- DAC2/SDO2 UnProcessed path 
+                      0x3A 0x81 0xDD   // M17- DAC2/SDO2 Processed path 
+ I2C W 0x73: 0x00 0xC8 0x00  // Load Router Gain End 
+ 

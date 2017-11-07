@@ -1,0 +1,6 @@
+---- status_call Matches (5 in 2 files) ----
+Main.c:u8 status_call=0;
+Main.c:			status_call=1;
+Main.c:	if(status_call)
+Main.c:		status_call=0;
+TAGS.txt:status_call	main.c	48;"	variable
